@@ -14,7 +14,7 @@ This project analyses two datasets using machine learning algorithms to gain ins
 - `online_retail_customer_churn.csv` – Customer churn dataset.
 - `retail_sales.csv` – Retail sales dataset
 
-## Techstack
+## Technology stack
 - Python
 - Pandas
 - Numpy
